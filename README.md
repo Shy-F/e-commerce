@@ -6,6 +6,9 @@
 
   This app is an ecommerce database.
 
+  ## Preview
+  ![Preview of e-commerce insomnia](https://github.com/Shy-F/e-commerce/blob/main/preview1.gif)
+  ![Preview of e-commerce insomnia 2](https://github.com/Shy-F/e-commerce/blob/main/preview2.gif)
   
 
   ##Table of Contents
